@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Level4DataManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MenuClickHandeler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuMouseHandeler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Level1DataManager.cs" Line="21" Column="4" />
+      <File FileName="Assets\Scripts\LoadMisssion2Data.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Level3DataManager.cs" Line="12" Column="40" />
+      <File FileName="Assets\Scripts\Level4DataManager.cs" Line="36" Column="29" />
+      <File FileName="Assets\Scripts\Level2DataManager.cs" Line="23" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
